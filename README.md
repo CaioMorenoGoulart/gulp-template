@@ -5,7 +5,7 @@ _Para copiar o repositorio git usar:_
 - git clone 
 
 _Para instalar os pacotes do projeto usar:_
-- yarn instal 
+- yarn install 
 
 Assim que o projeto estiver na maquina iniciar o mesmo com:
 - yarn start
